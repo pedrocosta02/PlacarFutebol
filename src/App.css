@@ -1,0 +1,14 @@
+.App {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.AppLink {
+  text-decoration: none;
+  color: black;
+}
+.AppParagrafo {
+  width: 72%;
+  text-align: center;
+}
